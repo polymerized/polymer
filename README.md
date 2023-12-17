@@ -1,5 +1,7 @@
 # polymer
 
+![polymer preview](relative%20assets/sample.png?raw=true "polymer preview")
+
 - [**lazy.nvim**](https://github.com/folke/lazy.nvim)
 - [**rose-pine/neovim**](https://github.com/rose-pine/neovim)
 - [**nvim-lua/plenary.nvim**](https://github.com/nvim-lua/plenary.nvim)
