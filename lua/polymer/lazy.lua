@@ -19,7 +19,7 @@ require("lazy").setup({
     { 'nvim-lua/plenary.nvim' },
     { 'nvim-telescope/telescope.nvim', requires = { { 'nvim-lua/plenary.nvim' } } },
     { "LinArcX/telescope-command-palette.nvim" },
-    -- { 'ThePrimeagen/harpoon' },
+    { 'ThePrimeagen/harpoon' },
 
     -- { 'preservim/nerdtree' },
 
