@@ -19,13 +19,13 @@ require("lazy").setup({
     { 'nvim-lua/plenary.nvim' },
     { 'nvim-telescope/telescope.nvim', requires = { { 'nvim-lua/plenary.nvim' } } },
     { "LinArcX/telescope-command-palette.nvim" },
-    { 'ThePrimeagen/harpoon' },
+    -- { 'ThePrimeagen/harpoon' },
 
-    { 'preservim/nerdtree' },
+    -- { 'preservim/nerdtree' },
 
     { 'neoclide/coc.nvim', branch = 'release' },
     { 'nvim-treesitter/nvim-treesitter', build = ':TSUpdate'},
 
-    { 'github/copilot.vim', branch = 'release', tag = 'v1.9.0'},
+    -- { 'github/copilot.vim', branch = 'release', tag = 'v1.9.0'},
     { 'laytan/cloak.nvim' },
 })

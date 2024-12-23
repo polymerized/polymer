@@ -1,4 +1,4 @@
-vim.g.NERDTreeWinSize = 40
+-- vim.g.NERDTreeWinSize = 40
 
 vim.opt.nu = true
 
@@ -13,4 +13,4 @@ vim.opt.backup = false
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
-vim.g.copilot_no_tab_map = true
+-- vim.g.copilot_no_tab_map = true
